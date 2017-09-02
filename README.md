@@ -1,2 +1,2 @@
 # discordmeme.github.io
-Discord meme website
+Meme Bot's website
